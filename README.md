@@ -6,8 +6,8 @@ Frankly, idk ¯\_(ツ)_/¯ It all can be seen in **mod.txt** file if you are int
 ## Will you release any other mods?
 Yes! But beware that the mods will be provided as-is, so I am not responsible if the mods won't work on latest patch.
 I plan to release some of the @DrNewbie code that has became unavailable due to the website being down.
-![image](https://github.com/KovoranPlay/Pre-U201-Counterfeit/assets/72622792/247e791e-0760-442d-9d91-fe4fd0c61019 Some of the mods already exist on Git, so I don't plan on releasing those again)
-I won't be reuploading the mods that already exist on GitHub as they are already available, I am seeking only to restore some of the mods I had back in the days. Not actually planing to
+![image](https://github.com/KovoranPlay/Pre-U201-Counterfeit/assets/72622792/247e791e-0760-442d-9d91-fe4fd0c61019)
+I won't be reuploading the mods that already exist on GitHub as they are already available, I am seeking only to restore some of the mods I had back in the days. Not actually planing to code on Lua as it seems way too hard for me
 ![image](https://github.com/KovoranPlay/Pre-U201-Counterfeit/assets/72622792/238c3840-f55a-4b2e-bd16-b21b49d4e672)
-This is the list of the mods that will, eventually, end up on this GitHub board.
+This is the list of the mods that will, eventually, end up on this GitHub board. The list is larger, but the Github can't 
 # (C) All rights reserved.
