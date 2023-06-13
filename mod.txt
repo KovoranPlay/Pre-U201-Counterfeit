@@ -1,0 +1,12 @@
+{
+	"name": "Pre U201 Counterfeit",
+	"description": "Removes the loud trigger added in U201",
+	"author": "herrhuml",
+	"contact": "mws",
+	"version": "1",
+	"blt_version": 2,
+	"image": "icon.png",
+	"hooks": [
+		{ "hook_id": "core/lib/managers/mission/coremissionmanager", "script_path": "Hooks/coremissionmanager.lua" }
+	]
+}
